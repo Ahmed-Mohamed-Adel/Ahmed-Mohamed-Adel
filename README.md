@@ -27,7 +27,7 @@
 <h1 align="left">Languages and Tools:</h1>
 <p>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,react,git,github,materialui" />
+    <img src="https://skillicons.dev/icons?i=js,c,html,css,bootstrap,sass,react,git,github,materialui" />
   </a>
 </p>
 
